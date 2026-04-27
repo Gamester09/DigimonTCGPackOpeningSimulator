@@ -49,6 +49,18 @@ public class CardVariable : ScriptableObject
         White
     }
     [System.Serializable]
+    public enum ThirdCardColor
+    {
+        None,
+        Red,
+        Blue,
+        Yellow,
+        Green,
+        Black,
+        Purple,
+        White
+    }
+    [System.Serializable]
     public enum CardType
     {
         Digimon,
@@ -65,6 +77,7 @@ public class CardVariable : ScriptableObject
     public SecretPackCardRarity secretPackRarity;
     public CardColor color1;
     public SecondCardColor color2;
+    public ThirdCardColor color3;
     public CardType cardCatagory;
     public int playCost = 0;
     public int DPOfCard = 1000;
