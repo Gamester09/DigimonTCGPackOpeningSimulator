@@ -20,11 +20,12 @@ MonoBehaviour:
   secretPackRarity: 1
   color1: 1
   color2: 0
+  color3: 0
   cardCatagory: 0
   playCost: 5
   DPOfCard: 5000
   cardLevel: 4
   secretPackToUnlock:
   - {fileID: 0}
-  amountOwned: 0
+  amountOwned: 4
   amountInCurrentDeck: 0

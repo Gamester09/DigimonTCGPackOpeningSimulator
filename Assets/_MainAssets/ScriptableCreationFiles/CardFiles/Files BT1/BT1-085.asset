@@ -20,11 +20,12 @@ MonoBehaviour:
   secretPackRarity: 2
   color1: 0
   color2: 0
+  color3: 0
   cardCatagory: 2
   playCost: 4
   DPOfCard: 0
   cardLevel: 0
   secretPackToUnlock:
   - {fileID: 11400000, guid: 3758c7c0a7f521b4b9aaf64e2dad8740, type: 2}
-  amountOwned: 0
+  amountOwned: 2
   amountInCurrentDeck: 0
