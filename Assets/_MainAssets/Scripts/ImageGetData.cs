@@ -10,6 +10,7 @@ public class ImageGetData
     {
         string PathForCardArt = Application.dataPath + "/Images/" + CardID + ".jpg";
         string PathForCardArtPng = Application.dataPath + "/Images/" + CardID + ".png";
+        string PathForCardArtWebp = Application.dataPath + "/Images/" + CardID + ".webp";
         if (File.Exists(PathForCardArt))
         {
             //Debug.Log("Sprite found!");
@@ -25,6 +26,15 @@ public class ImageGetData
         else if (File.Exists(PathForCardArtPng))
         {
             byte[] imageBuff = await ReadFile(PathForCardArtPng);
+            Texture2D tex = BinaryToTexture(imageBuff);
+            //if (tex.width % 4 == 0 && tex.height % 4 == 0)
+            //    tex.Compress(false);
+            Sprite sprite = Sprite.Create(tex, new Rect(0, 0, tex.width, tex.height), Vector2.zero);
+            return sprite;
+        }
+        else if (File.Exists(PathForCardArtWebp))
+        {
+            byte[] imageBuff = await ReadFile(PathForCardArtWebp);
             Texture2D tex = BinaryToTexture(imageBuff);
             //if (tex.width % 4 == 0 && tex.height % 4 == 0)
             //    tex.Compress(false);
