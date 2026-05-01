@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BT16-014
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
-  setNumber: 6
+  setNumber: 14
   CardName: Goldramon (X Antibody)
   hasAnAltArt: 0
   rarity: 2

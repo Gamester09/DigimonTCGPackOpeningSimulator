@@ -14,8 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Metropolitan Police Department, Community Safety Bureau, Cyber Crime
-    Division, Investigation Unit
+  CardName: Digimon Crime Response Team
   hasAnAltArt: 0
   rarity: 2
   secretPackRarity: 1

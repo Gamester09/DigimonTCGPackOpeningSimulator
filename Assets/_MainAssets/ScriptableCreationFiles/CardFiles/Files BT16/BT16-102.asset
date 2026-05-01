@@ -14,12 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Rapidmon (X Antibody)
+  CardName: Magnamon (X Antibody)
   hasAnAltArt: 1
   rarity: 4
   secretPackRarity: 3
   color1: 2
   color2: 2
+  color3: 5
   cardCatagory: 0
   playCost: 12
   DPOfCard: 12000

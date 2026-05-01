@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Thunderflame Crusher
+  CardName: Rapidmon (X Antibody)
   hasAnAltArt: 1
   rarity: 4
   secretPackRarity: 3

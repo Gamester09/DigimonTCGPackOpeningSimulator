@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: The Demon Wolf of the Castle of Nine Wolves
+  CardName: Thunderflame Crusher
   hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0

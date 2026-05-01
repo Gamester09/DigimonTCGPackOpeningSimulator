@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Advent of the Ancient Steel Angel
+  CardName: DORU-Din
   hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0

@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 6
   CardName: GranKuwagamon
-  hasAnAltArt: 0
+  hasAnAltArt: 1
   rarity: 2
   secretPackRarity: 1
   color1: 3

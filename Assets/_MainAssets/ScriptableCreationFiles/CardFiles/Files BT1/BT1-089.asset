@@ -29,5 +29,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b32d23c3f47ed3d40b973bf5f5f28930, type: 2}
   - {fileID: 11400000, guid: b3e1f4246d8bfa244a9706fad025a0cf, type: 2}
   - {fileID: 11400000, guid: 3592cf3b8c6421d42894deb3e04300d6, type: 2}
-  amountOwned: 1
+  amountOwned: 0
   amountInCurrentDeck: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BT16-008
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
-  setNumber: 6
+  setNumber: 8
   CardName: Aquilamon
   hasAnAltArt: 0
   rarity: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BT16-009
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
-  setNumber: 6
+  setNumber: 9
   CardName: Lynxmon
   hasAnAltArt: 0
   rarity: 0

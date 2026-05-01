@@ -13,13 +13,14 @@ MonoBehaviour:
   m_Name: BT16-011
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
-  setNumber: 6
+  setNumber: 11
   CardName: Garudamon (X Antibody)
   hasAnAltArt: 0
   rarity: 1
   secretPackRarity: 2
   color1: 0
   color2: 0
+  color3: 0
   cardCatagory: 0
   playCost: 8
   DPOfCard: 8000

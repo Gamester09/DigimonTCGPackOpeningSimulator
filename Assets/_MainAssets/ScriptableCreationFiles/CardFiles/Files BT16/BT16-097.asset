@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: ' Crime Response Team'
+  CardName: Advent of the Ancien Steel Angel
   hasAnAltArt: 0
   rarity: 1
   secretPackRarity: 1
