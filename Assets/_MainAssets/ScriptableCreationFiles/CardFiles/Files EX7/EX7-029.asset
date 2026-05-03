@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardVariable
   cardImage: {fileID: 0}
   setNumber: 0
-  CardName: SaberLeomon Ace
-  hasAnAltArt: 0
+  CardName: SaberLeomon
+  hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
   color1: 2

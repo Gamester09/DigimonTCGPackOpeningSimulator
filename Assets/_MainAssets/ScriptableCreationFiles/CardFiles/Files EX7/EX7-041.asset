@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: Tortomon
-  hasAnAltArt: 0
+  hasAnAltArt: 1
   rarity: 0
   secretPackRarity: 0
   color1: 4
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 4000
   cardLevel: 4
   secretPackToUnlock: []
-  amountOwned: 0
+  amountOwned: 8
   amountInCurrentDeck: 0

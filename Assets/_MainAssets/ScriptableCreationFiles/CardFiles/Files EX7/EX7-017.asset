@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: SnowAgumon
-  hasAnAltArt: 0
+  hasAnAltArt: 1
   rarity: 0
   secretPackRarity: 0
   color1: 1
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 2000
   cardLevel: 3
   secretPackToUnlock: []
-  amountOwned: 0
+  amountOwned: 5
   amountInCurrentDeck: 0

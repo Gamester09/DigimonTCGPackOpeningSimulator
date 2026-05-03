@@ -87,10 +87,17 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 8e8d0116f1de645408ae490cb0964181, type: 2}
   - {fileID: 11400000, guid: ff3d52ef79405be47a94fadf85d0d6c6, type: 2}
   - {fileID: 11400000, guid: 466fec6ed6cdc524bb2709a637a0e627, type: 2}
-  SetName: Infernal Ascension [EX6]
+  SetName: 'Infernal Ascension [EX6]'
   SetDescription: 
   SetCover: {fileID: 11400000, guid: 0c2b7ba94befecd4c88a87e51b6a0177, type: 2}
   SecretPack: 0
+  PromoPack: 0
   hasBeenUnlocked: 0
   hasBeenCompleted: 0
-  KeyCards: []
+  isRebootBooster: 0
+  KeyCards:
+  - {fileID: 11400000, guid: ff3d52ef79405be47a94fadf85d0d6c6, type: 2}
+  - {fileID: 11400000, guid: bad37a8fc8357b44dbad795e5d5f0a7a, type: 2}
+  - {fileID: 11400000, guid: 456299671fc0bc94393a7fe0226ae702, type: 2}
+  - {fileID: 11400000, guid: de1985076a6ee87428a51102a25dc473, type: 2}
+  - {fileID: 11400000, guid: c66614e892e6dc74d98ca692c338b4c4, type: 2}

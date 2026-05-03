@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 7000
   cardLevel: 5
   secretPackToUnlock: []
-  amountOwned: 0
+  amountOwned: 1
   amountInCurrentDeck: 0

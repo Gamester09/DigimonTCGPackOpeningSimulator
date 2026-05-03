@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: Zephagamon
-  hasAnAltArt: 0
+  hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
   color1: 3
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 12000
   cardLevel: 6
   secretPackToUnlock: []
-  amountOwned: 0
+  amountOwned: 1
   amountInCurrentDeck: 0

@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: Metallicdramon
-  hasAnAltArt: 0
+  hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
   color1: 4
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 13000
   cardLevel: 6
   secretPackToUnlock: []
-  amountOwned: 0
+  amountOwned: 1
   amountInCurrentDeck: 0

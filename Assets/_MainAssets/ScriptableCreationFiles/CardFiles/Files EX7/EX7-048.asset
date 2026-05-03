@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: Gundramon
-  hasAnAltArt: 0
+  hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
   color1: 4

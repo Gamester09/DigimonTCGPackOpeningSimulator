@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: DemiMaramon
-  hasAnAltArt: 0
+  hasAnAltArt: 1
   rarity: 0
   secretPackRarity: 0
   color1: 0
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 0
   cardLevel: 2
   secretPackToUnlock: []
-  amountOwned: 0
+  amountOwned: 6
   amountInCurrentDeck: 0

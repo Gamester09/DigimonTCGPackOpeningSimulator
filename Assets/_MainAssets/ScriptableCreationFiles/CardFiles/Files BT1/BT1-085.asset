@@ -27,5 +27,5 @@ MonoBehaviour:
   cardLevel: 0
   secretPackToUnlock:
   - {fileID: 11400000, guid: 3758c7c0a7f521b4b9aaf64e2dad8740, type: 2}
-  amountOwned: 2
+  amountOwned: 0
   amountInCurrentDeck: 0
