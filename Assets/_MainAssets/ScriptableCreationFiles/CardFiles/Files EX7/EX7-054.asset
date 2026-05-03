@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: BlackGatomon
-  hasAnAltArt: 1
+  hasAnAltArt: 0
   rarity: 1
   secretPackRarity: 0
   color1: 5
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 3000
   cardLevel: 4
   secretPackToUnlock: []
-  amountOwned: 6
+  amountOwned: 0
   amountInCurrentDeck: 0

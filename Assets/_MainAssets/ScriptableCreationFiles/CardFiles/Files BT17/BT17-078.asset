@@ -21,7 +21,7 @@ MonoBehaviour:
   color1: 6
   color2: 0
   color3: 0
-  cardCatagory: 0
+  cardCatagory: 4
   playCost: 9
   DPOfCard: 15000
   cardLevel: 7

@@ -21,11 +21,11 @@ MonoBehaviour:
   color1: 6
   color2: 2
   color3: 4
-  cardCatagory: 0
+  cardCatagory: 4
   playCost: 9
   DPOfCard: 16000
   cardLevel: 7
   secretPackToUnlock:
   - {fileID: 0}
-  amountOwned: 0
+  amountOwned: 1
   amountInCurrentDeck: 0

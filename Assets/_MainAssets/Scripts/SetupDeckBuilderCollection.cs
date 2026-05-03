@@ -254,7 +254,21 @@ public class SetupDeckBuilderCollection : MonoBehaviour
             }
             if (useCardTypeFilter)
             {
-                FilteredList = cardsInCollection.Where(card => card.cardCatagory == typeToDisplay).ToList();
+                switch (typeToDisplay)
+                {
+                    case CardVariable.CardType.Digitama:
+                    case CardVariable.CardType.Tamer:
+                    case CardVariable.CardType.ACE_Digimon:
+                    case CardVariable.CardType.Dual_Card:
+                        FilteredList = cardsInCollection.Where(card => card.cardCatagory == typeToDisplay).ToList();
+                        break;
+                    case CardVariable.CardType.Digimon:
+                        FilteredList = cardsInCollection.Where(card => card.cardCatagory == CardVariable.CardType.Digimon || card.cardCatagory == CardVariable.CardType.ACE_Digimon || card.cardCatagory == CardVariable.CardType.Dual_Card).ToList();
+                        break;
+                    case CardVariable.CardType.Option:
+                    FilteredList = cardsInCollection.Where(card => card.cardCatagory == CardVariable.CardType.Option || card.cardCatagory == CardVariable.CardType.Dual_Card).ToList();
+                    break;
+                }
                 cardsInCollection = FilteredList;
             }
             if (useRarityFilter)
@@ -279,7 +293,7 @@ public class SetupDeckBuilderCollection : MonoBehaviour
             }
             if (useColorFilter)
             {
-                FilteredList = cardsInCollection.Where(card => card.color1 == (CardVariable.CardColor)ColorToFilter || card.color2 == (CardVariable.SecondCardColor)ColorToFilter + 1).ToList();
+                FilteredList = cardsInCollection.Where(card => card.color1 == (CardVariable.CardColor)ColorToFilter || card.color2 == (CardVariable.SecondCardColor)ColorToFilter + 1 || card.color3 == (CardVariable.ThirdCardColor)ColorToFilter + 1 ).ToList();
                 cardsInCollection = FilteredList;
             }
             if (useNameFilter)

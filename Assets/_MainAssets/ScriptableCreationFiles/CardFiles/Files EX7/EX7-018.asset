@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: Gekomon
-  hasAnAltArt: 1
+  hasAnAltArt: 0
   rarity: 1
   secretPackRarity: 0
   color1: 1
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 4000
   cardLevel: 4
   secretPackToUnlock: []
-  amountOwned: 4
+  amountOwned: 0
   amountInCurrentDeck: 0

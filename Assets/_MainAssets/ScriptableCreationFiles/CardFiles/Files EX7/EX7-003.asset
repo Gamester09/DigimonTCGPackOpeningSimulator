@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: Kyaromon
-  hasAnAltArt: 1
+  hasAnAltArt: 0
   rarity: 1
   secretPackRarity: 0
   color1: 2
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 0
   cardLevel: 2
   secretPackToUnlock: []
-  amountOwned: 2
+  amountOwned: 0
   amountInCurrentDeck: 0

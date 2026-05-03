@@ -66,7 +66,9 @@ public class CardVariable : ScriptableObject
         Digimon,
         Digitama,
         Tamer,
-        Option
+        Option,
+        ACE_Digimon,
+        Dual_Card
     }
 
     public Sprite cardImage;

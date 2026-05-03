@@ -15,7 +15,7 @@ MonoBehaviour:
   cardImage: {fileID: 0}
   setNumber: 0
   CardName: Wind Slicer
-  hasAnAltArt: 1
+  hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0
   color1: 3
@@ -26,5 +26,5 @@ MonoBehaviour:
   DPOfCard: 0
   cardLevel: 0
   secretPackToUnlock: []
-  amountOwned: 9
+  amountOwned: 0
   amountInCurrentDeck: 0
