@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Parrot
+  CardName: Parrotmon
   hasAnAltArt: 0
   rarity: 2
   secretPackRarity: 0
