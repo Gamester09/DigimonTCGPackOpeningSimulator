@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: GranKuwagamon
+  CardName: GranKuwagamon ACE
   hasAnAltArt: 1
   rarity: 2
   secretPackRarity: 1
   color1: 3
   color2: 6
   color3: 0
-  cardCatagory: 0
+  cardCatagory: 4
   playCost: 7
   DPOfCard: 12000
   cardLevel: 6

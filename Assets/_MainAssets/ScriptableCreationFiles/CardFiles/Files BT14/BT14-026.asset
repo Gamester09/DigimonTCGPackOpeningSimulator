@@ -14,13 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 0
-  CardName: Zudomon Ace
+  CardName: Zudomon ACE
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 2
   color1: 1
   color2: 0
-  cardCatagory: 0
+  color3: 0
+  cardCatagory: 4
   playCost: 4
   DPOfCard: 8000
   cardLevel: 5

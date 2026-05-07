@@ -14,18 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Vikemon
+  CardName: Vikemon ACE
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 2
   color1: 1
   color2: 5
   color3: 0
-  cardCatagory: 0
+  cardCatagory: 4
   playCost: 7
   DPOfCard: 12000
   cardLevel: 6
   secretPackToUnlock:
   - {fileID: 0}
-  amountOwned: 1
+  amountOwned: 0
   amountInCurrentDeck: 0

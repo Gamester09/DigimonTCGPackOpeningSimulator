@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Omnimon
+  CardName: Omnimon ACE
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
@@ -27,5 +27,5 @@ MonoBehaviour:
   cardLevel: 7
   secretPackToUnlock:
   - {fileID: 0}
-  amountOwned: 0
+  amountOwned: 1
   amountInCurrentDeck: 0

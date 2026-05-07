@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: 'Imperialdramon: Fighter Mode'
+  CardName: 'Imperialdramon: Fighter Mode ACE'
   hasAnAltArt: 1
   rarity: 2
   secretPackRarity: 2
   color1: 1
   color2: 4
   color3: 0
-  cardCatagory: 0
+  cardCatagory: 4
   playCost: 8
   DPOfCard: 13000
   cardLevel: 6

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: 'ShineGreymon: Burst Mode'
+  CardName: 'ShineGreymon: Burst Mode ACE'
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0

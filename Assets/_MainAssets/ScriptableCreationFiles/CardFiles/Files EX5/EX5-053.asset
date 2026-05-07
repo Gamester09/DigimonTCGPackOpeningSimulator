@@ -14,13 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 0
-  CardName: Baihumon Ace
+  CardName: Baihumon ACE
   hasAnAltArt: 1
   rarity: 2
   secretPackRarity: 2
   color1: 4
   color2: 3
-  cardCatagory: 0
+  color3: 0
+  cardCatagory: 4
   playCost: 7
   DPOfCard: 12000
   cardLevel: 6

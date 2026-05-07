@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Dynasmon
+  CardName: Dynasmon ACE
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
   color1: 2
   color2: 1
   color3: 0
-  cardCatagory: 0
+  cardCatagory: 4
   playCost: 7
   DPOfCard: 12000
   cardLevel: 6

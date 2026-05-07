@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: LordKnightmon
+  CardName: LordKnightmon ACE
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
   color1: 5
   color2: 5
   color3: 0
-  cardCatagory: 0
+  cardCatagory: 4
   playCost: 7
   DPOfCard: 12000
   cardLevel: 6

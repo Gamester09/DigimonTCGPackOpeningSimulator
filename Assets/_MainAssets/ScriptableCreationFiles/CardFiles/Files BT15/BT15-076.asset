@@ -14,13 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 0
-  CardName: Myotismon Ace
+  CardName: Myotismon ACE
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 3
   color1: 5
   color2: 0
-  cardCatagory: 0
+  color3: 0
+  cardCatagory: 4
   playCost: 5
   DPOfCard: 8000
   cardLevel: 5

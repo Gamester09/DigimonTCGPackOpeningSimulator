@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: 'Imperialdramon: Paladin Mode'
+  CardName: 'Imperialdramon: Paladin Mode ACE'
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
@@ -27,5 +27,5 @@ MonoBehaviour:
   cardLevel: 7
   secretPackToUnlock:
   - {fileID: 0}
-  amountOwned: 1
+  amountOwned: 0
   amountInCurrentDeck: 0

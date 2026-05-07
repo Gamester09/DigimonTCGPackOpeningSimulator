@@ -27,5 +27,5 @@ MonoBehaviour:
   cardLevel: 6
   secretPackToUnlock:
   - {fileID: 0}
-  amountOwned: 0
+  amountOwned: 2
   amountInCurrentDeck: 0

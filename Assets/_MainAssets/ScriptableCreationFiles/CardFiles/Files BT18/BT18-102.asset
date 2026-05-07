@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Susanoomon
+  CardName: Susanoomon ACE
   hasAnAltArt: 1
   rarity: 4
   secretPackRarity: 0
   color1: 6
   color2: 0
   color3: 0
-  cardCatagory: 0
+  cardCatagory: 4
   playCost: 9
   DPOfCard: 16000
   cardLevel: 7

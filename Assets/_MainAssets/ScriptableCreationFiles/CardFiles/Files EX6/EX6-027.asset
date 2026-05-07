@@ -14,13 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 0
-  CardName: Ophanimon
+  CardName: Ophanimon ACE
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 2
   color1: 2
   color2: 1
-  cardCatagory: 0
+  color3: 0
+  cardCatagory: 4
   playCost: 7
   DPOfCard: 12000
   cardLevel: 6
