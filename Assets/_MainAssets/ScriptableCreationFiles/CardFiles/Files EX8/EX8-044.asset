@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardVariable
   cardImage: {fileID: 0}
   setNumber: 0
-  CardName: HerculesKabuterimon Ace
+  CardName: HerculesKabuterimon ACE
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
