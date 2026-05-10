@@ -87,7 +87,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3e262fffd7602a542a6da32a5976056f, type: 2}
   - {fileID: 11400000, guid: 5c4eb2150f604304ebdde88ff77bd9ed, type: 2}
   - {fileID: 11400000, guid: 938f4798b020dd84e9f547cd86bf1a47, type: 2}
-  SetName: 'CHAIN OF LIBERATION [EX8]'
+  SetName: 'Chain of Liberation [EX8]'
   SetDescription: 
   SetCover: {fileID: 11400000, guid: 5c4eb2150f604304ebdde88ff77bd9ed, type: 2}
   SecretPack: 0
