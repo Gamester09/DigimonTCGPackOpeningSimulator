@@ -117,10 +117,15 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ad285cf0134fc14478eb119399a7fb47, type: 2}
   SetName: 'World Convergence [BT21]'
   SetDescription: 
-  SetCover: {fileID: 0}
+  SetCover: {fileID: 11400000, guid: b820c61c5f7bd3543b5e9633968b0dd9, type: 2}
   SecretPack: 0
   PromoPack: 0
   hasBeenUnlocked: 0
   hasBeenCompleted: 0
   isRebootBooster: 0
-  KeyCards: []
+  KeyCards:
+  - {fileID: 11400000, guid: 132d0d33629748a4990aaaf75f419c08, type: 2}
+  - {fileID: 11400000, guid: 7efeb679c59543043a3469d68a7110f9, type: 2}
+  - {fileID: 11400000, guid: 8d7fa8ca27ac17d489adef2ead40b2ab, type: 2}
+  - {fileID: 11400000, guid: e400bb379d718eb4293b736111a70013, type: 2}
+  - {fileID: 11400000, guid: 047892ff2f4009644a4b0c6ecd5d5cd3, type: 2}
