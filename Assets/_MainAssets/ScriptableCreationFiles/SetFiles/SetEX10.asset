@@ -95,4 +95,9 @@ MonoBehaviour:
   hasBeenUnlocked: 0
   hasBeenCompleted: 0
   isRebootBooster: 0
-  KeyCards: []
+  KeyCards:
+  - {fileID: 11400000, guid: 4558dac9fe3267c4b8e710d5b0d6161b, type: 2}
+  - {fileID: 11400000, guid: 6cf98bcd1ee77004f94a2bceb9ad0439, type: 2}
+  - {fileID: 11400000, guid: 811954e679f4310439dc2c0cc545d2ae, type: 2}
+  - {fileID: 11400000, guid: b9c1b0121ec21794da1a1ef3bfb48b76, type: 2}
+  - {fileID: 11400000, guid: e892368f6da90124cbd1d44340a125af, type: 2}
