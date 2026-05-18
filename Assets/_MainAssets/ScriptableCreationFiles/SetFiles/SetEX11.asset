@@ -15,10 +15,15 @@ MonoBehaviour:
   ListOfCardsInSet: []
   SetName: 'Dawn of Liberator [EX-11]'
   SetDescription: 
-  SetCover: {fileID: 0}
+  SetCover: {fileID: 11400000, guid: a787e13d54c13a94da6b00b6e2d7fa5a, type: 2}
   SecretPack: 0
   PromoPack: 0
   hasBeenUnlocked: 0
   hasBeenCompleted: 0
   isRebootBooster: 0
-  KeyCards: []
+  KeyCards:
+  - {fileID: 11400000, guid: a787e13d54c13a94da6b00b6e2d7fa5a, type: 2}
+  - {fileID: 11400000, guid: 6e9b20864767c664e9ff994ec3617329, type: 2}
+  - {fileID: 11400000, guid: 3408cee2d14b74141b387ea42a19028a, type: 2}
+  - {fileID: 11400000, guid: 3fe2084617369354cba9d379dc99f5c0, type: 2}
+  - {fileID: 11400000, guid: dc06ad0b8b59f4f409fea05e1b9a2f7e, type: 2}
