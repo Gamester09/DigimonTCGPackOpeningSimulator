@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Kentaurosmon
-  hasAnAltArt: 0
-  rarity: 2
+  CardName: Minervamon
+  hasAnAltArt: 1
+  rarity: 3
   secretPackRarity: 0
   color1: 2
-  color2: 0
+  color2: 5
   color3: 0
   cardCatagory: 0
   playCost: 12

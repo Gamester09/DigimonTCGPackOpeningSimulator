@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Lekismon
+  CardName: SkullGreymon
   hasAnAltArt: 0
-  rarity: 0
+  rarity: 1
   secretPackRarity: 0
   color1: 5
-  color2: 2
+  color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 5
-  DPOfCard: 6000
-  cardLevel: 4
+  playCost: 7
+  DPOfCard: 7000
+  cardLevel: 5
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

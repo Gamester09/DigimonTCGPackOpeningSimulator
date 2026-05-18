@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Reppamon
-  hasAnAltArt: 0
-  rarity: 0
+  CardName: Aegiomon
+  hasAnAltArt: 1
+  rarity: 3
   secretPackRarity: 0
   color1: 2
   color2: 0

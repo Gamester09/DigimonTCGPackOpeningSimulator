@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Agumon (X Antibody)
+  CardName: DemiDevimon
   hasAnAltArt: 0
-  rarity: 1
+  rarity: 0
   secretPackRarity: 0
   color1: 5
-  color2: 4
+  color2: 0
   color3: 0
   cardCatagory: 0
   playCost: 3
-  DPOfCard: 2000
+  DPOfCard: 1000
   cardLevel: 3
   secretPackToUnlock:
   - {fileID: 0}

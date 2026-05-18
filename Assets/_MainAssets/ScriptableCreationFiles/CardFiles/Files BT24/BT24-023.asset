@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: AeroVeedramon
+  CardName: Calmaramon
   hasAnAltArt: 0
   rarity: 1
   secretPackRarity: 0
@@ -22,9 +22,9 @@ MonoBehaviour:
   color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 7
+  playCost: 6
   DPOfCard: 7000
-  cardLevel: 5
+  cardLevel: 4
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

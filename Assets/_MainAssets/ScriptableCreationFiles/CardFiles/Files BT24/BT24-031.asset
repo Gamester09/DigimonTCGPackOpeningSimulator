@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: GoldNumemon
-  hasAnAltArt: 0
-  rarity: 1
+  CardName: Elecmon
+  hasAnAltArt: 1
+  rarity: 2
   secretPackRarity: 0
   color1: 2
-  color2: 5
+  color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 5
-  DPOfCard: 2000
-  cardLevel: 4
+  playCost: 3
+  DPOfCard: 1000
+  cardLevel: 3
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

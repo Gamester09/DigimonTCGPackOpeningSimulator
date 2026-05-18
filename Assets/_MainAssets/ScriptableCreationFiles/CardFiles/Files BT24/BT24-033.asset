@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Mediamon
+  CardName: Salamon
   hasAnAltArt: 0
-  rarity: 1
+  rarity: 0
   secretPackRarity: 0
   color1: 2
-  color2: 2
+  color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 6
-  DPOfCard: 6000
-  cardLevel: 4
+  playCost: 3
+  DPOfCard: 1000
+  cardLevel: 3
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

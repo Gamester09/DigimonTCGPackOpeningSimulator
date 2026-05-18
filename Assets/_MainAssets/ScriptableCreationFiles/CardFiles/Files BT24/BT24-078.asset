@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Boltmon
-  hasAnAltArt: 0
-  rarity: 1
+  CardName: Creepymon (X Antibody)
+  hasAnAltArt: 1
+  rarity: 3
   secretPackRarity: 0
   color1: 5
-  color2: 1
+  color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 12
-  DPOfCard: 12000
+  playCost: 13
+  DPOfCard: 13000
   cardLevel: 6
   secretPackToUnlock:
   - {fileID: 0}

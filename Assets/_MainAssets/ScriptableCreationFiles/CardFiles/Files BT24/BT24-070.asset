@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: DarkTyrannomon (X Antibody)
+  CardName: Growlmon
   hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0
   color1: 5
-  color2: 4
+  color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 6
-  DPOfCard: 6000
+  playCost: 5
+  DPOfCard: 5000
   cardLevel: 4
   secretPackToUnlock:
   - {fileID: 0}

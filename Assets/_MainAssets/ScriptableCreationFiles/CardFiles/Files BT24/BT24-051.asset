@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Okuwamon
-  hasAnAltArt: 0
-  rarity: 0
+  CardName: Merukimon
+  hasAnAltArt: 1
+  rarity: 3
   secretPackRarity: 0
   color1: 3
-  color2: 0
+  color2: 2
   color3: 0
   cardCatagory: 0
-  playCost: 8
-  DPOfCard: 7000
-  cardLevel: 5
+  playCost: 12
+  DPOfCard: 12000
+  cardLevel: 6
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

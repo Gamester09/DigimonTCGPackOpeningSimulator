@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: UlforceVeedramon ACE
+  CardName: Shellmon
   hasAnAltArt: 0
-  rarity: 3
+  rarity: 2
   secretPackRarity: 0
   color1: 1
   color2: 0
   color3: 0
-  cardCatagory: 4
-  playCost: 7
-  DPOfCard: 12000
-  cardLevel: 6
+  cardCatagory: 0
+  playCost: 4
+  DPOfCard: 4000
+  cardLevel: 4
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

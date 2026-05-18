@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Sayo
+  CardName: Homeros
   hasAnAltArt: 1
   rarity: 4
   secretPackRarity: 0
-  color1: 5
-  color2: 2
+  color1: 6
+  color2: 0
   color3: 0
   cardCatagory: 2
-  playCost: 4
+  playCost: 5
   DPOfCard: 0
   cardLevel: 0
   secretPackToUnlock:

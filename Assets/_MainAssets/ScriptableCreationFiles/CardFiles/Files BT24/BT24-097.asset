@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Music of the Heart
+  CardName: Soul Fear
   hasAnAltArt: 0
-  rarity: 0
+  rarity: 1
   secretPackRarity: 0
-  color1: 2
+  color1: 5
   color2: 0
   color3: 0
   cardCatagory: 3
-  playCost: 2
+  playCost: 5
   DPOfCard: 0
   cardLevel: 0
   secretPackToUnlock:

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Moonmon
+  CardName: Tapmon
   hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0

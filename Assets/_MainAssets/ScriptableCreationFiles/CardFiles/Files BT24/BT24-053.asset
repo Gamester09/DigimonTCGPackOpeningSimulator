@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Keramon
+  CardName: Protecmon
   hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0
@@ -23,7 +23,7 @@ MonoBehaviour:
   color3: 0
   cardCatagory: 0
   playCost: 3
-  DPOfCard: 1000
+  DPOfCard: 2000
   cardLevel: 3
   secretPackToUnlock:
   - {fileID: 0}

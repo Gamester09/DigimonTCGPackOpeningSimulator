@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: 'Unique Emblem: Poseidia Lagoon'
+  CardName: Seventh Graviton
   hasAnAltArt: 0
-  rarity: 1
+  rarity: 2
   secretPackRarity: 0
-  color1: 1
+  color1: 5
   color2: 0
   color3: 0
   cardCatagory: 3
-  playCost: 3
+  playCost: 7
   DPOfCard: 0
   cardLevel: 0
   secretPackToUnlock:

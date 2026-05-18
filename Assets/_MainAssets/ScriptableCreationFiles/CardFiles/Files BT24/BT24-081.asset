@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Eater Eve
-  hasAnAltArt: 0
-  rarity: 1
+  CardName: Titamon + SkullBaluchimon
+  hasAnAltArt: 1
+  rarity: 3
   secretPackRarity: 0
-  color1: 6
-  color2: 0
+  color1: 5
+  color2: 4
   color3: 0
   cardCatagory: 0
-  playCost: 6
-  DPOfCard: 7000
-  cardLevel: 0
+  playCost: 14
+  DPOfCard: 14000
+  cardLevel: 7
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

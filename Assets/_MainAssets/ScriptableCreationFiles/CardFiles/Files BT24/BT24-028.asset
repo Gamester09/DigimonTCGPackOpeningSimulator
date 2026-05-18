@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Ariemon
-  hasAnAltArt: 1
-  rarity: 3
+  CardName: Divermon
+  hasAnAltArt: 0
+  rarity: 2
   secretPackRarity: 0
   color1: 1
   color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 14
-  DPOfCard: 14000
-  cardLevel: 7
+  playCost: 6
+  DPOfCard: 6000
+  cardLevel: 5
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

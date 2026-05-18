@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 11
-  CardName: BlueMeramon
+  CardName: Cyclonemon
   hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0
   color1: 0
-  color2: 6
+  color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 7
-  DPOfCard: 7000
-  cardLevel: 5
+  playCost: 5
+  DPOfCard: 5000
+  cardLevel: 4
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

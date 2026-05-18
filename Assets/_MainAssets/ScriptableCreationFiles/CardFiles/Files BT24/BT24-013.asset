@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 13
-  CardName: WarGreymon
+  CardName: Fugamon
   hasAnAltArt: 0
-  rarity: 2
+  rarity: 1
   secretPackRarity: 0
   color1: 0
-  color2: 0
+  color2: 6
   color3: 0
   cardCatagory: 0
-  playCost: 12
-  DPOfCard: 12000
-  cardLevel: 6
+  playCost: 4
+  DPOfCard: 4000
+  cardLevel: 4
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Kyoko Kuremi
+  CardName: Jupitermon
   hasAnAltArt: 1
   rarity: 4
   secretPackRarity: 0
-  color1: 4
-  color2: 3
+  color1: 2
+  color2: 0
   color3: 0
-  cardCatagory: 2
-  playCost: 5
-  DPOfCard: 0
-  cardLevel: 0
+  cardCatagory: 0
+  playCost: 14
+  DPOfCard: 13000
+  cardLevel: 6
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

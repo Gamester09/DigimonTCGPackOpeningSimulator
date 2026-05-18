@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: ShinMonzaemon
+  CardName: WarGrowlmon
   hasAnAltArt: 0
-  rarity: 2
+  rarity: 0
   secretPackRarity: 0
   color1: 5
-  color2: 3
+  color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 13
-  DPOfCard: 13000
-  cardLevel: 6
+  playCost: 7
+  DPOfCard: 7000
+  cardLevel: 5
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

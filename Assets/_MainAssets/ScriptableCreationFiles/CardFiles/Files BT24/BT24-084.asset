@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Nokia Shiramine
+  CardName: Inori Minsono
   hasAnAltArt: 1
   rarity: 3
   secretPackRarity: 0
-  color1: 0
-  color2: 2
+  color1: 2
+  color2: 0
   color3: 0
   cardCatagory: 2
-  playCost: 5
+  playCost: 3
   DPOfCard: 0
   cardLevel: 0
   secretPackToUnlock:

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Ryugumon
+  CardName: Lanamon
   hasAnAltArt: 0
   rarity: 2
   secretPackRarity: 0
@@ -22,9 +22,9 @@ MonoBehaviour:
   color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 11
-  DPOfCard: 11000
-  cardLevel: 6
+  playCost: 5
+  DPOfCard: 5000
+  cardLevel: 4
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

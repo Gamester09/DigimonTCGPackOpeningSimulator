@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Sangomon
-  hasAnAltArt: 0
-  rarity: 0
+  CardName: Styracomon
+  hasAnAltArt: 1
+  rarity: 3
   secretPackRarity: 0
-  color1: 1
+  color1: 0
   color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 3
-  DPOfCard: 1000
-  cardLevel: 3
+  playCost: 14
+  DPOfCard: 14000
+  cardLevel: 7
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

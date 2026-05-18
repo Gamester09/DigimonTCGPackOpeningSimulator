@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Nyabootmon
-  hasAnAltArt: 1
-  rarity: 3
+  CardName: Goblimon
+  hasAnAltArt: 0
+  rarity: 0
   secretPackRarity: 0
-  color1: 2
-  color2: 0
+  color1: 3
+  color2: 6
   color3: 0
   cardCatagory: 0
-  playCost: 14
-  DPOfCard: 14000
-  cardLevel: 7
+  playCost: 3
+  DPOfCard: 1000
+  cardLevel: 3
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

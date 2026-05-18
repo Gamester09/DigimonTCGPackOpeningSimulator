@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Devimon
+  CardName: Raidramon
   hasAnAltArt: 0
-  rarity: 0
+  rarity: 2
   secretPackRarity: 0
   color1: 5
   color2: 1
   color3: 0
   cardCatagory: 0
-  playCost: 5
+  playCost: 6
   DPOfCard: 6000
   cardLevel: 4
   secretPackToUnlock:

@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Ouranosmon
-  hasAnAltArt: 1
-  rarity: 3
+  CardName: Piximon
+  hasAnAltArt: 0
+  rarity: 0
   secretPackRarity: 0
   color1: 2
-  color2: 7
+  color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 12
-  DPOfCard: 12000
-  cardLevel: 6
+  playCost: 6
+  DPOfCard: 6000
+  cardLevel: 5
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

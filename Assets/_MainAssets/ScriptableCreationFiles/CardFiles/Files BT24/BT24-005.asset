@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 5
-  CardName: Tsumemon
+  CardName: Kyokyomon
   hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0

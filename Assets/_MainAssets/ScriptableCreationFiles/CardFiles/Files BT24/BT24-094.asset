@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Yuugo Kamishiro
+  CardName: 'Central Town: Throne Room'
   hasAnAltArt: 0
   rarity: 1
   secretPackRarity: 0
-  color1: 6
-  color2: 0
+  color1: 3
+  color2: 3
   color3: 0
-  cardCatagory: 2
+  cardCatagory: 3
   playCost: 3
   DPOfCard: 0
   cardLevel: 0

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Kurisarimon
+  CardName: Docmon
   hasAnAltArt: 0
   rarity: 0
   secretPackRarity: 0
@@ -22,8 +22,8 @@ MonoBehaviour:
   color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 5
-  DPOfCard: 5000
+  playCost: 4
+  DPOfCard: 4000
   cardLevel: 4
   secretPackToUnlock:
   - {fileID: 0}

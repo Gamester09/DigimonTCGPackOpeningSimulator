@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardImage: {fileID: 0}
   setNumber: 6
-  CardName: Veemon
+  CardName: Kamemon
   hasAnAltArt: 0
-  rarity: 2
+  rarity: 0
   secretPackRarity: 0
   color1: 1
   color2: 0
