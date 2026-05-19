@@ -143404,6 +143404,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Set Display Button_14 bt15+LM
       objectReference: {fileID: 0}
+    - target: {fileID: 47491493899958346, guid: 62cd797e01b6d874e9c0178771d0e715, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 47491493899958347, guid: 62cd797e01b6d874e9c0178771d0e715, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
