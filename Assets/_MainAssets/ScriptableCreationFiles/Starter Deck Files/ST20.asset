@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST20
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 63825636c888d9d489b41ab2abbc5960, type: 2}
+  - {fileID: 11400000, guid: 63825636c888d9d489b41ab2abbc5960, type: 2}
+  - {fileID: 11400000, guid: 63825636c888d9d489b41ab2abbc5960, type: 2}
+  - {fileID: 11400000, guid: 63825636c888d9d489b41ab2abbc5960, type: 2}
+  - {fileID: 11400000, guid: 52736cc8faa046045998a567eaba8b21, type: 2}
+  - {fileID: 11400000, guid: 52736cc8faa046045998a567eaba8b21, type: 2}
+  - {fileID: 11400000, guid: 52736cc8faa046045998a567eaba8b21, type: 2}
+  - {fileID: 11400000, guid: 52736cc8faa046045998a567eaba8b21, type: 2}
+  - {fileID: 11400000, guid: 1f646db897889d2499f367db813e9647, type: 2}
+  - {fileID: 11400000, guid: 1f646db897889d2499f367db813e9647, type: 2}
+  - {fileID: 11400000, guid: 1f646db897889d2499f367db813e9647, type: 2}
+  - {fileID: 11400000, guid: 1f646db897889d2499f367db813e9647, type: 2}
+  - {fileID: 11400000, guid: dead753e338fb5541871b2c643d72198, type: 2}
+  - {fileID: 11400000, guid: dead753e338fb5541871b2c643d72198, type: 2}
+  - {fileID: 11400000, guid: dead753e338fb5541871b2c643d72198, type: 2}
+  - {fileID: 11400000, guid: dead753e338fb5541871b2c643d72198, type: 2}
+  - {fileID: 11400000, guid: d8fa6acb333d4fd4f9727407fef876d8, type: 2}
+  - {fileID: 11400000, guid: d8fa6acb333d4fd4f9727407fef876d8, type: 2}
+  - {fileID: 11400000, guid: d8fa6acb333d4fd4f9727407fef876d8, type: 2}
+  - {fileID: 11400000, guid: d8fa6acb333d4fd4f9727407fef876d8, type: 2}
+  - {fileID: 11400000, guid: 6fb8d6ec623a41a45bdf093d7a383253, type: 2}
+  - {fileID: 11400000, guid: 6fb8d6ec623a41a45bdf093d7a383253, type: 2}
+  - {fileID: 11400000, guid: 5236d9e2921b890428844a647ff6d8a5, type: 2}
+  - {fileID: 11400000, guid: 5236d9e2921b890428844a647ff6d8a5, type: 2}
+  - {fileID: 11400000, guid: 5236d9e2921b890428844a647ff6d8a5, type: 2}
+  - {fileID: 11400000, guid: 5236d9e2921b890428844a647ff6d8a5, type: 2}
+  - {fileID: 11400000, guid: 768c00487a9ccb04abad93e354246b03, type: 2}
+  - {fileID: 11400000, guid: 768c00487a9ccb04abad93e354246b03, type: 2}
+  - {fileID: 11400000, guid: 768c00487a9ccb04abad93e354246b03, type: 2}
+  - {fileID: 11400000, guid: 768c00487a9ccb04abad93e354246b03, type: 2}
+  - {fileID: 11400000, guid: c99a225ae984b7043a9d2d09633983f6, type: 2}
+  - {fileID: 11400000, guid: c99a225ae984b7043a9d2d09633983f6, type: 2}
+  - {fileID: 11400000, guid: c99a225ae984b7043a9d2d09633983f6, type: 2}
+  - {fileID: 11400000, guid: c99a225ae984b7043a9d2d09633983f6, type: 2}
+  - {fileID: 11400000, guid: 9ed1d4670436ee14c8fe3fe04007f672, type: 2}
+  - {fileID: 11400000, guid: 9ed1d4670436ee14c8fe3fe04007f672, type: 2}
+  - {fileID: 11400000, guid: 9ed1d4670436ee14c8fe3fe04007f672, type: 2}
+  - {fileID: 11400000, guid: 9ed1d4670436ee14c8fe3fe04007f672, type: 2}
+  - {fileID: 11400000, guid: 1d59c164834470c4e9eef0a33836a5f5, type: 2}
+  - {fileID: 11400000, guid: 1d59c164834470c4e9eef0a33836a5f5, type: 2}
+  - {fileID: 11400000, guid: 5196b6db57ad4db4782205a7c08f2ae1, type: 2}
+  - {fileID: 11400000, guid: 5196b6db57ad4db4782205a7c08f2ae1, type: 2}
+  - {fileID: 11400000, guid: 5196b6db57ad4db4782205a7c08f2ae1, type: 2}
+  - {fileID: 11400000, guid: 5196b6db57ad4db4782205a7c08f2ae1, type: 2}
+  - {fileID: 11400000, guid: cc0761b47673a7b42989ef4109d95c02, type: 2}
+  - {fileID: 11400000, guid: cc0761b47673a7b42989ef4109d95c02, type: 2}
+  - {fileID: 11400000, guid: b15c39bfbeecf834db0baf9512943a96, type: 2}
+  - {fileID: 11400000, guid: b15c39bfbeecf834db0baf9512943a96, type: 2}
+  - {fileID: 11400000, guid: b15c39bfbeecf834db0baf9512943a96, type: 2}
+  - {fileID: 11400000, guid: b15c39bfbeecf834db0baf9512943a96, type: 2}
+  - {fileID: 11400000, guid: 68a923878d03fd542a942bf64bf63a51, type: 2}
+  - {fileID: 11400000, guid: 68a923878d03fd542a942bf64bf63a51, type: 2}
+  - {fileID: 11400000, guid: 68a923878d03fd542a942bf64bf63a51, type: 2}
+  - {fileID: 11400000, guid: 68a923878d03fd542a942bf64bf63a51, type: 2}
+  - {fileID: 11400000, guid: ce6f0b013b8cc2f4cbc15b2b995d6476, type: 2}
+  - {fileID: 11400000, guid: 6863c47f8bba6d2478f064fd65328957, type: 2}
+  - {fileID: 11400000, guid: 922a01d8d05e20b4d9aa9b1195346b65, type: 2}
+  - {fileID: 11400000, guid: c1cbcf2a12618c1419cecd354cd6d86f, type: 2}
+  - {fileID: 11400000, guid: 608676fd21c539c4ca2fbb41cd60d6c4, type: 2}
+  - {fileID: 11400000, guid: ed89a5ca1ec04574b831353f5b2fd767, type: 2}
+  SetName: '[ST20] Protector of Light'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 1d59c164834470c4e9eef0a33836a5f5, type: 2}
+  SecretPack: 0
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  isRebootBooster: 0
+  KeyCards: []

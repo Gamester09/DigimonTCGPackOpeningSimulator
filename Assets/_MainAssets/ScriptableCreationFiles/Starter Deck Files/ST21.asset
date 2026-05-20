@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST21
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 52c99e7a4d0b515489a641cfc847e3af, type: 2}
+  - {fileID: 11400000, guid: 52c99e7a4d0b515489a641cfc847e3af, type: 2}
+  - {fileID: 11400000, guid: 52c99e7a4d0b515489a641cfc847e3af, type: 2}
+  - {fileID: 11400000, guid: 52c99e7a4d0b515489a641cfc847e3af, type: 2}
+  - {fileID: 11400000, guid: fe5e531e8cd13a044be7cebf0428ce43, type: 2}
+  - {fileID: 11400000, guid: fe5e531e8cd13a044be7cebf0428ce43, type: 2}
+  - {fileID: 11400000, guid: fe5e531e8cd13a044be7cebf0428ce43, type: 2}
+  - {fileID: 11400000, guid: fe5e531e8cd13a044be7cebf0428ce43, type: 2}
+  - {fileID: 11400000, guid: bf7d9f7a2bee67a4b8f74604226d49ed, type: 2}
+  - {fileID: 11400000, guid: bf7d9f7a2bee67a4b8f74604226d49ed, type: 2}
+  - {fileID: 11400000, guid: bf7d9f7a2bee67a4b8f74604226d49ed, type: 2}
+  - {fileID: 11400000, guid: bf7d9f7a2bee67a4b8f74604226d49ed, type: 2}
+  - {fileID: 11400000, guid: 40f79497c3d2b4b4c8b77a9694a08445, type: 2}
+  - {fileID: 11400000, guid: 40f79497c3d2b4b4c8b77a9694a08445, type: 2}
+  - {fileID: 11400000, guid: 40f79497c3d2b4b4c8b77a9694a08445, type: 2}
+  - {fileID: 11400000, guid: 40f79497c3d2b4b4c8b77a9694a08445, type: 2}
+  - {fileID: 11400000, guid: 7d7fd68ce5f731a4882334cb34bc812b, type: 2}
+  - {fileID: 11400000, guid: 7d7fd68ce5f731a4882334cb34bc812b, type: 2}
+  - {fileID: 11400000, guid: 7d7fd68ce5f731a4882334cb34bc812b, type: 2}
+  - {fileID: 11400000, guid: 7d7fd68ce5f731a4882334cb34bc812b, type: 2}
+  - {fileID: 11400000, guid: 950ec013a3b69cc4aa662535c20b8872, type: 2}
+  - {fileID: 11400000, guid: 950ec013a3b69cc4aa662535c20b8872, type: 2}
+  - {fileID: 11400000, guid: 4a5c75710bd4500469e25fa63ca9a705, type: 2}
+  - {fileID: 11400000, guid: 4a5c75710bd4500469e25fa63ca9a705, type: 2}
+  - {fileID: 11400000, guid: 4a5c75710bd4500469e25fa63ca9a705, type: 2}
+  - {fileID: 11400000, guid: 4a5c75710bd4500469e25fa63ca9a705, type: 2}
+  - {fileID: 11400000, guid: 84d8cc170e7ea914da4021f55ed52f50, type: 2}
+  - {fileID: 11400000, guid: 84d8cc170e7ea914da4021f55ed52f50, type: 2}
+  - {fileID: 11400000, guid: 84d8cc170e7ea914da4021f55ed52f50, type: 2}
+  - {fileID: 11400000, guid: 84d8cc170e7ea914da4021f55ed52f50, type: 2}
+  - {fileID: 11400000, guid: cf8218229108f534c91d169785f7bc89, type: 2}
+  - {fileID: 11400000, guid: cf8218229108f534c91d169785f7bc89, type: 2}
+  - {fileID: 11400000, guid: cf8218229108f534c91d169785f7bc89, type: 2}
+  - {fileID: 11400000, guid: cf8218229108f534c91d169785f7bc89, type: 2}
+  - {fileID: 11400000, guid: 0dfa3acdfe9e30145b088865d4607426, type: 2}
+  - {fileID: 11400000, guid: 0dfa3acdfe9e30145b088865d4607426, type: 2}
+  - {fileID: 11400000, guid: 0dfa3acdfe9e30145b088865d4607426, type: 2}
+  - {fileID: 11400000, guid: 0dfa3acdfe9e30145b088865d4607426, type: 2}
+  - {fileID: 11400000, guid: 409f88b9550903a44bcb9d2fa9c4effc, type: 2}
+  - {fileID: 11400000, guid: 409f88b9550903a44bcb9d2fa9c4effc, type: 2}
+  - {fileID: 11400000, guid: 4debebf9254352c4786d6dcc052f5519, type: 2}
+  - {fileID: 11400000, guid: 4debebf9254352c4786d6dcc052f5519, type: 2}
+  - {fileID: 11400000, guid: 4debebf9254352c4786d6dcc052f5519, type: 2}
+  - {fileID: 11400000, guid: 4debebf9254352c4786d6dcc052f5519, type: 2}
+  - {fileID: 11400000, guid: 1474c2b9ecbfef94a93f227c3bc85e7a, type: 2}
+  - {fileID: 11400000, guid: 1474c2b9ecbfef94a93f227c3bc85e7a, type: 2}
+  - {fileID: 11400000, guid: 7d55751ff6218f94282b8eff065a8abb, type: 2}
+  - {fileID: 11400000, guid: 7d55751ff6218f94282b8eff065a8abb, type: 2}
+  - {fileID: 11400000, guid: 7d55751ff6218f94282b8eff065a8abb, type: 2}
+  - {fileID: 11400000, guid: 7d55751ff6218f94282b8eff065a8abb, type: 2}
+  - {fileID: 11400000, guid: 0e232c9ebd27fde45b258f25909e1b8c, type: 2}
+  - {fileID: 11400000, guid: 0e232c9ebd27fde45b258f25909e1b8c, type: 2}
+  - {fileID: 11400000, guid: 0e232c9ebd27fde45b258f25909e1b8c, type: 2}
+  - {fileID: 11400000, guid: 0e232c9ebd27fde45b258f25909e1b8c, type: 2}
+  - {fileID: 11400000, guid: ce6f0b013b8cc2f4cbc15b2b995d6476, type: 2}
+  - {fileID: 11400000, guid: 6863c47f8bba6d2478f064fd65328957, type: 2}
+  - {fileID: 11400000, guid: 922a01d8d05e20b4d9aa9b1195346b65, type: 2}
+  - {fileID: 11400000, guid: c1cbcf2a12618c1419cecd354cd6d86f, type: 2}
+  - {fileID: 11400000, guid: 608676fd21c539c4ca2fbb41cd60d6c4, type: 2}
+  - {fileID: 11400000, guid: ed89a5ca1ec04574b831353f5b2fd767, type: 2}
+  SetName: '[ST21] Hero of Hope'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 409f88b9550903a44bcb9d2fa9c4effc, type: 2}
+  SecretPack: 0
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  isRebootBooster: 0
+  KeyCards: []

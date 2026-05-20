@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST22
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 79fc18c9c0bf25847a2322b1f6c1fb23, type: 2}
+  - {fileID: 11400000, guid: 79fc18c9c0bf25847a2322b1f6c1fb23, type: 2}
+  - {fileID: 11400000, guid: 79fc18c9c0bf25847a2322b1f6c1fb23, type: 2}
+  - {fileID: 11400000, guid: 79fc18c9c0bf25847a2322b1f6c1fb23, type: 2}
+  - {fileID: 11400000, guid: 3386da91df2bcba4e8661c38bd89bd72, type: 2}
+  - {fileID: 11400000, guid: 3386da91df2bcba4e8661c38bd89bd72, type: 2}
+  - {fileID: 11400000, guid: 3386da91df2bcba4e8661c38bd89bd72, type: 2}
+  - {fileID: 11400000, guid: 3386da91df2bcba4e8661c38bd89bd72, type: 2}
+  - {fileID: 11400000, guid: 9384448b1fa14c940b0fab6e651df075, type: 2}
+  - {fileID: 11400000, guid: 9384448b1fa14c940b0fab6e651df075, type: 2}
+  - {fileID: 11400000, guid: 9384448b1fa14c940b0fab6e651df075, type: 2}
+  - {fileID: 11400000, guid: 9384448b1fa14c940b0fab6e651df075, type: 2}
+  - {fileID: 11400000, guid: 8a1a89b2eaad2254190ad6265812a7c8, type: 2}
+  - {fileID: 11400000, guid: 8a1a89b2eaad2254190ad6265812a7c8, type: 2}
+  - {fileID: 11400000, guid: 04385a4d1beae024089f8e26a041abe8, type: 2}
+  - {fileID: 11400000, guid: 04385a4d1beae024089f8e26a041abe8, type: 2}
+  - {fileID: 11400000, guid: 04385a4d1beae024089f8e26a041abe8, type: 2}
+  - {fileID: 11400000, guid: 04385a4d1beae024089f8e26a041abe8, type: 2}
+  - {fileID: 11400000, guid: 3a51b835bc6a06a42b1026ca1db77289, type: 2}
+  - {fileID: 11400000, guid: 3a51b835bc6a06a42b1026ca1db77289, type: 2}
+  - {fileID: 11400000, guid: 5efe21a45af60794e849593c41888401, type: 2}
+  - {fileID: 11400000, guid: 5efe21a45af60794e849593c41888401, type: 2}
+  - {fileID: 11400000, guid: 7496eb0bf02ad1540a74b2a85590ccf0, type: 2}
+  - {fileID: 11400000, guid: 7496eb0bf02ad1540a74b2a85590ccf0, type: 2}
+  - {fileID: 11400000, guid: 7496eb0bf02ad1540a74b2a85590ccf0, type: 2}
+  - {fileID: 11400000, guid: 7496eb0bf02ad1540a74b2a85590ccf0, type: 2}
+  - {fileID: 11400000, guid: 26f5ea4212fd8d246b5d1090e2602a0f, type: 2}
+  - {fileID: 11400000, guid: 26f5ea4212fd8d246b5d1090e2602a0f, type: 2}
+  - {fileID: 11400000, guid: 9f5726d9605c8a6419fa2ad71c478d96, type: 2}
+  - {fileID: 11400000, guid: 9f5726d9605c8a6419fa2ad71c478d96, type: 2}
+  - {fileID: 11400000, guid: 9f5726d9605c8a6419fa2ad71c478d96, type: 2}
+  - {fileID: 11400000, guid: 9f5726d9605c8a6419fa2ad71c478d96, type: 2}
+  - {fileID: 11400000, guid: c37a80b4f36627e4baf57eff6d5ed853, type: 2}
+  - {fileID: 11400000, guid: c37a80b4f36627e4baf57eff6d5ed853, type: 2}
+  - {fileID: 11400000, guid: c37a80b4f36627e4baf57eff6d5ed853, type: 2}
+  - {fileID: 11400000, guid: c37a80b4f36627e4baf57eff6d5ed853, type: 2}
+  - {fileID: 11400000, guid: fc24fba6bba39f749ae29cf04cf8f7e0, type: 2}
+  - {fileID: 11400000, guid: fc24fba6bba39f749ae29cf04cf8f7e0, type: 2}
+  - {fileID: 11400000, guid: 6a17a2307bb7757449c5a3c2e45903b8, type: 2}
+  - {fileID: 11400000, guid: 6a17a2307bb7757449c5a3c2e45903b8, type: 2}
+  - {fileID: 11400000, guid: 873b9e7de202c1743aac6f71d558d8cc, type: 2}
+  - {fileID: 11400000, guid: 873b9e7de202c1743aac6f71d558d8cc, type: 2}
+  - {fileID: 11400000, guid: f34b47cf3feb3944288e61700cbc873b, type: 2}
+  - {fileID: 11400000, guid: f34b47cf3feb3944288e61700cbc873b, type: 2}
+  - {fileID: 11400000, guid: 588ecc74ab6aa2b46852dcc33948eea1, type: 2}
+  - {fileID: 11400000, guid: 588ecc74ab6aa2b46852dcc33948eea1, type: 2}
+  - {fileID: 11400000, guid: 3fef636afed7d4045939a01f828232c7, type: 2}
+  - {fileID: 11400000, guid: 3fef636afed7d4045939a01f828232c7, type: 2}
+  - {fileID: 11400000, guid: f7b8e20514460f049a1143e1fd783e6a, type: 2}
+  - {fileID: 11400000, guid: f7b8e20514460f049a1143e1fd783e6a, type: 2}
+  - {fileID: 11400000, guid: 922a01d8d05e20b4d9aa9b1195346b65, type: 2}
+  - {fileID: 11400000, guid: 922a01d8d05e20b4d9aa9b1195346b65, type: 2}
+  - {fileID: 11400000, guid: 0253515f244dd7743905c71dfec2b697, type: 2}
+  - {fileID: 11400000, guid: 0253515f244dd7743905c71dfec2b697, type: 2}
+  - {fileID: 11400000, guid: 4ea0d8e39d255d44c89b209dd3f4afcc, type: 2}
+  - {fileID: 11400000, guid: 4ea0d8e39d255d44c89b209dd3f4afcc, type: 2}
+  - {fileID: 11400000, guid: b41518652179ebf4f89e50952a769bb8, type: 2}
+  - {fileID: 11400000, guid: b41518652179ebf4f89e50952a769bb8, type: 2}
+  - {fileID: 11400000, guid: 56241f8594cec9d428d6298ced8a7310, type: 2}
+  - {fileID: 11400000, guid: 56241f8594cec9d428d6298ced8a7310, type: 2}
+  SetName: '[ST22] Amethyst Mandala'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: fc24fba6bba39f749ae29cf04cf8f7e0, type: 2}
+  SecretPack: 0
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  isRebootBooster: 0
+  KeyCards: []

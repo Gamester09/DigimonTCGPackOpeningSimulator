@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST19
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 197670128df698343af52d5eb134d407, type: 2}
+  - {fileID: 11400000, guid: 197670128df698343af52d5eb134d407, type: 2}
+  - {fileID: 11400000, guid: 197670128df698343af52d5eb134d407, type: 2}
+  - {fileID: 11400000, guid: 197670128df698343af52d5eb134d407, type: 2}
+  - {fileID: 11400000, guid: ea6c749455f8d59438b0c087bded90a1, type: 2}
+  - {fileID: 11400000, guid: ea6c749455f8d59438b0c087bded90a1, type: 2}
+  - {fileID: 11400000, guid: ea6c749455f8d59438b0c087bded90a1, type: 2}
+  - {fileID: 11400000, guid: ea6c749455f8d59438b0c087bded90a1, type: 2}
+  - {fileID: 11400000, guid: 499c2ee02fa753440be1da3c91373c68, type: 2}
+  - {fileID: 11400000, guid: 499c2ee02fa753440be1da3c91373c68, type: 2}
+  - {fileID: 11400000, guid: 0feedd62abb164044943e4abd74f60da, type: 2}
+  - {fileID: 11400000, guid: 0feedd62abb164044943e4abd74f60da, type: 2}
+  - {fileID: 11400000, guid: 0feedd62abb164044943e4abd74f60da, type: 2}
+  - {fileID: 11400000, guid: 0feedd62abb164044943e4abd74f60da, type: 2}
+  - {fileID: 11400000, guid: 8a07b570feb13f94d93a6886e1a799be, type: 2}
+  - {fileID: 11400000, guid: 8a07b570feb13f94d93a6886e1a799be, type: 2}
+  - {fileID: 11400000, guid: 8a07b570feb13f94d93a6886e1a799be, type: 2}
+  - {fileID: 11400000, guid: 8a07b570feb13f94d93a6886e1a799be, type: 2}
+  - {fileID: 11400000, guid: 913deb891d76eb942ac5b28180ede5dd, type: 2}
+  - {fileID: 11400000, guid: 913deb891d76eb942ac5b28180ede5dd, type: 2}
+  - {fileID: 11400000, guid: 913deb891d76eb942ac5b28180ede5dd, type: 2}
+  - {fileID: 11400000, guid: 913deb891d76eb942ac5b28180ede5dd, type: 2}
+  - {fileID: 11400000, guid: 84996f3d9daea3a4f8da3ea200008a6f, type: 2}
+  - {fileID: 11400000, guid: 84996f3d9daea3a4f8da3ea200008a6f, type: 2}
+  - {fileID: 11400000, guid: 84996f3d9daea3a4f8da3ea200008a6f, type: 2}
+  - {fileID: 11400000, guid: 84996f3d9daea3a4f8da3ea200008a6f, type: 2}
+  - {fileID: 11400000, guid: ffd2843c2bc61bf40b99f889f7d9599c, type: 2}
+  - {fileID: 11400000, guid: ffd2843c2bc61bf40b99f889f7d9599c, type: 2}
+  - {fileID: 11400000, guid: 745151c2bbfb57f4fa6680b61694628b, type: 2}
+  - {fileID: 11400000, guid: 745151c2bbfb57f4fa6680b61694628b, type: 2}
+  - {fileID: 11400000, guid: 745151c2bbfb57f4fa6680b61694628b, type: 2}
+  - {fileID: 11400000, guid: 745151c2bbfb57f4fa6680b61694628b, type: 2}
+  - {fileID: 11400000, guid: a1452d1456c8a7a4ca5b2c101f7bcbfa, type: 2}
+  - {fileID: 11400000, guid: a1452d1456c8a7a4ca5b2c101f7bcbfa, type: 2}
+  - {fileID: 11400000, guid: a1452d1456c8a7a4ca5b2c101f7bcbfa, type: 2}
+  - {fileID: 11400000, guid: a1452d1456c8a7a4ca5b2c101f7bcbfa, type: 2}
+  - {fileID: 11400000, guid: e51dad3bae37cd64993d40801b7a7957, type: 2}
+  - {fileID: 11400000, guid: e51dad3bae37cd64993d40801b7a7957, type: 2}
+  - {fileID: 11400000, guid: deac94d279fd460409ce30ba48ffd65c, type: 2}
+  - {fileID: 11400000, guid: deac94d279fd460409ce30ba48ffd65c, type: 2}
+  - {fileID: 11400000, guid: 7bf9f92618749324ca1309b6caa33ece, type: 2}
+  - {fileID: 11400000, guid: 7bf9f92618749324ca1309b6caa33ece, type: 2}
+  - {fileID: 11400000, guid: 7bf9f92618749324ca1309b6caa33ece, type: 2}
+  - {fileID: 11400000, guid: 7bf9f92618749324ca1309b6caa33ece, type: 2}
+  - {fileID: 11400000, guid: 0f36e5a274a4fe749a63a167d0583754, type: 2}
+  - {fileID: 11400000, guid: 0f36e5a274a4fe749a63a167d0583754, type: 2}
+  - {fileID: 11400000, guid: 0f36e5a274a4fe749a63a167d0583754, type: 2}
+  - {fileID: 11400000, guid: 0f36e5a274a4fe749a63a167d0583754, type: 2}
+  - {fileID: 11400000, guid: f4aab5bc353d5fc42811af77df5c20e4, type: 2}
+  - {fileID: 11400000, guid: f4aab5bc353d5fc42811af77df5c20e4, type: 2}
+  - {fileID: 11400000, guid: f4aab5bc353d5fc42811af77df5c20e4, type: 2}
+  - {fileID: 11400000, guid: f4aab5bc353d5fc42811af77df5c20e4, type: 2}
+  - {fileID: 11400000, guid: d51c5b28b1182be429fc0bb4c78075c0, type: 2}
+  - {fileID: 11400000, guid: d51c5b28b1182be429fc0bb4c78075c0, type: 2}
+  - {fileID: 11400000, guid: 4489a1b22721a4c4eab70210a5923ea2, type: 2}
+  - {fileID: 11400000, guid: e4e26cccef3b73d4ebbb3af0cf5b5293, type: 2}
+  - {fileID: 11400000, guid: 0253515f244dd7743905c71dfec2b697, type: 2}
+  - {fileID: 11400000, guid: ad80aa03b49942842a980d7f0c9f8053, type: 2}
+  - {fileID: 11400000, guid: 8a9c1282cd0ee86418b5736f94efbfb3, type: 2}
+  - {fileID: 11400000, guid: e12ca1de00a1b3d468e692562532eefe, type: 2}
+  SetName: '[ST19] Fable Waltz'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 499c2ee02fa753440be1da3c91373c68, type: 2}
+  SecretPack: 0
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  isRebootBooster: 0
+  KeyCards: []
