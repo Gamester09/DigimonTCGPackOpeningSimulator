@@ -4072,5 +4072,5 @@ MonoBehaviour:
       KeyCardForDeck: 
   defaultDeckPicture: {fileID: 0}
   LoadOnAwake: 1
-  SaveOnAwake: 0
+  SaveOnAwake: 1
   targetFPS: 60

@@ -20,6 +20,7 @@ MonoBehaviour:
   secretPackRarity: 2
   color1: 0
   color2: 0
+  color3: 0
   cardCatagory: 0
   playCost: 5
   DPOfCard: 4000
@@ -28,5 +29,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: df891541738fdb04e8e3a2a458d18b48, type: 2}
   - {fileID: 11400000, guid: f022d57daa9e1114aa6a29391d9b5a30, type: 2}
   - {fileID: 11400000, guid: 3758c7c0a7f521b4b9aaf64e2dad8740, type: 2}
-  amountOwned: 0
+  amountOwned: 2
   amountInCurrentDeck: 0
