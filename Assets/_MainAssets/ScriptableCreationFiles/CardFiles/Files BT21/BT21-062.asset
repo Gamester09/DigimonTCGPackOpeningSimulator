@@ -22,9 +22,9 @@ MonoBehaviour:
   color2: 0
   color3: 0
   cardCatagory: 0
-  playCost: 3
-  DPOfCard: 1000
-  cardLevel: 3
+  playCost: 14
+  DPOfCard: 14000
+  cardLevel: 6
   secretPackToUnlock:
   - {fileID: 0}
   amountOwned: 0

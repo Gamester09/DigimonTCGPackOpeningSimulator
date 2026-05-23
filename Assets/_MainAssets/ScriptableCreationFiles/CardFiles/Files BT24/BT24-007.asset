@@ -16,7 +16,7 @@ MonoBehaviour:
   setNumber: 7
   CardName: Tsunomon
   hasAnAltArt: 0
-  rarity: 1
+  rarity: 0
   secretPackRarity: 0
   color1: 5
   color2: 0
