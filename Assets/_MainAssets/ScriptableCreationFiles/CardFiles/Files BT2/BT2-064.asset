@@ -20,6 +20,7 @@ MonoBehaviour:
   secretPackRarity: 0
   color1: 4
   color2: 0
+  color3: 0
   cardCatagory: 0
   playCost: 10
   DPOfCard: 12000

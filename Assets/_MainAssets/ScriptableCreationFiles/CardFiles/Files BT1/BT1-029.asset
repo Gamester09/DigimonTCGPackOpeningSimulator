@@ -27,4 +27,4 @@ MonoBehaviour:
   cardLevel: 3
   secretPackToUnlock: []
   amountOwned: 0
-  amountInCurrentDeck: 4
+  amountInCurrentDeck: 0
