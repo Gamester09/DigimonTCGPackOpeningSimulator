@@ -21,12 +21,12 @@ public class TEMPLoadEveryImageStartup : MonoBehaviour
         DontDestroyOnLoad(gameObject);
         totalCards = EveryCard.ListOfCardsInSet.Count;
         SceneManager.LoadScene(sceneToLoad);
+        defaultCard.cardImage = await ImageGetData.GetCardImageFromFile(defaultCard.name);
         for (int i = 0; i < EveryCard.ListOfCardsInSet.Count; i++)
         {
             EveryCard.ListOfCardsInSet[i].cardImage =  await ImageGetData.GetCardImageFromFile(EveryCard.ListOfCardsInSet[i].name);
             loadingPercent.value = (((i + 1) / totalCards) * 100);
         }
-        defaultCard.cardImage = await ImageGetData.GetCardImageFromFile(defaultCard.name);
         Destroy(gameObject);
     }
 }
